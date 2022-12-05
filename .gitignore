@@ -1,4 +1,5 @@
-
 *.csv
 *.parquet
 uber_rides_sample.csv
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
