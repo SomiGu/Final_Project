@@ -10,16 +10,16 @@
 ## Environments
   Python >= 3.8
 
-## Packages installed:
-  Pandas
-  Numpy
-  SqlAlchemy
-  Matplotlib
-  geopandas
-  bs4
-  pandasql
-  fastparquet
-  pyarrow
+## Packages installed and updated:
+-  Pandas
+-  Numpy
+-  SqlAlchemy
+-  Matplotlib
+-  geopandas
+-  bs4
+-  pandasql
+-  fastparquet
+-  pyarrow
 
 ## Details
 
